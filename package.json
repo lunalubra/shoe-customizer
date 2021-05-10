@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@react-three/drei": "^4.3.3",
+    "@react-three/fiber": "^6.0.20",
+    "framer-motion": "^4.1.13",
     "next": "10.2.0",
+    "node-sass": "^5.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-colorful": "^5.1.4",
+    "react-dom": "17.0.2",
+    "three": "^0.128.0",
+    "valtio": "^1.0.4"
   }
 }
